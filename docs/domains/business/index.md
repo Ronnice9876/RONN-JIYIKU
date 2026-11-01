@@ -21,9 +21,9 @@ tags:
 
 ## 🔗 跨出圈
 
-- 投资心理 → [个人成长](../growth/)
-- 增长黑客 → [工程/技术栈](../engineering/)
-- 商业叙事 → [设计/美学](../design/)
+- 投资心理 → [个人成长](../growth/index.md)
+- 增长黑客 → [工程/技术栈](../engineering/index.md)
+- 商业叙事 → [设计/美学](../design/index.md)
 
 ## 📎 入口卡片
 

@@ -5,11 +5,11 @@
 
 site_name: 知识库
 site_description: 个人长期知识库 — 持续积累、交叉关联、渐进式生长
-site_author: "18559499876"
-site_url: "https://18559499876.github.io/knowledge-base/"
+site_author: "Ronnice9876"
+site_url: "https://Ronnice9876.github.io/knowledge-base/"
 
 # ----- 仓库链接（可直接点击跳转编辑） -----
-repo_url: https://github.com/18559499876/knowledge-base/
+repo_url: https://github.com/Ronnice9876/knowledge-base/
 repo_name: knowledge-base
 edit_uri: edit/main/docs/
 
@@ -114,7 +114,7 @@ plugins:
   - tags
 
 # ----- 版权 -----
-copyright: Copyright &copy; 2026 18559499876 \| 持续积累 · 交叉关联 · 渐进式生长
+copyright: "Copyright &copy; 2026 Ronnice9876 | 持续积累 · 交叉关联 · 渐进式生长"
 
 # ----- 导航结构 -----
 nav:
