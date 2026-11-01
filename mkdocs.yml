@@ -6,11 +6,11 @@
 site_name: 知识库
 site_description: 个人长期知识库 — 持续积累、交叉关联、渐进式生长
 site_author: "Ronnice9876"
-site_url: "https://Ronnice9876.github.io/knowledge-base/"
+site_url: "https://Ronnice9876.github.io/RONN-JIYIKU/"
 
 # ----- 仓库链接（可直接点击跳转编辑） -----
-repo_url: https://github.com/Ronnice9876/knowledge-base/
-repo_name: knowledge-base
+repo_url: https://github.com/Ronnice9876/RONN-JIYIKU/
+repo_name: RONN-JIYIKU
 edit_uri: edit/main/docs/
 
 # ----- 主题配置 -----
